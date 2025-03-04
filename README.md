@@ -67,3 +67,4 @@ Now you can start making changes, committing them, and pushing updates. 🎉
 
 For any questions, feel free to reach out! 🚀
 ``` 
+![heatmap](https://github.com/user-attachments/assets/4221f8b3-88dc-4940-b4b0-b42fa0f30a0d)

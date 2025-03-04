@@ -65,6 +65,6 @@ Now you can start making changes, committing them, and pushing updates. 🎉
 3. Open a pull request for merging changes into the main branch.
 4. Ensure code is properly tested before pushing.
 
-For any questions, feel free to reach out! 🚀
+For any questions, feel free to reach out! 🚀![heatmap](https://github.com/user-attachments/assets/cd9401b9-56ac-493d-99bb-da43cf20d102)
+
 ``` 
-![heatmap](https://github.com/user-attachments/assets/4221f8b3-88dc-4940-b4b0-b42fa0f30a0d)

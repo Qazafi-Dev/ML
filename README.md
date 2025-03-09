@@ -64,7 +64,9 @@ Now you can start making changes, committing them, and pushing updates. 🎉
 2. Follow proper commit message conventions.
 3. Open a pull request for merging changes into the main branch.
 4. Ensure code is properly tested before pushing.
+<img width="1440" alt="Screenshot 2025-03-09 at 3 45 19 PM" src="https://github.com/user-attachments/assets/73d1c133-1be2-44d0-95bd-3ad1eeb47cca" />
 
-For any questions, feel free to reach out! 🚀![heatmap](https://github.com/user-attachments/assets/cd9401b9-56ac-493d-99bb-da43cf20d102)
+For any questions, feel free to reach out! 🚀![heatmap](https://github.com/user-attachments/assets/7792c314-c3fe-4ad8-bca6-eea6f4cafcd8)
+
 
 ``` 
